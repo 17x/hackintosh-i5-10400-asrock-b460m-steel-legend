@@ -1,4 +1,4 @@
-#### Process status
+### Process status
 
 - ``Installable``
 
@@ -6,15 +6,15 @@
 
 
 
-#### Systems
+### Systems
 
 [Open Core 0.7.5](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.7.5)
 
-[Monterey 12.0.1](https://cloud.mfpud.com/Hackintosh/241BB3B9B9FF8D2CDDEDD9972CC34099/macOS Monterey 12.0.1 Clover and OC with PE.dmg)
+[Monterey 12.0.1](https://cloud.mfpud.com/Hackintosh/241BB3B9B9FF8D2CDDEDD9972CC34099/macOS%20Monterey%2012.0.1%20Clover%20and%20OC%20with%20PE.dmg)
 
 
 
-#### Hardware list
+### Hardware list
 
 Intel I5-10400
 

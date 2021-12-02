@@ -7,6 +7,10 @@
 - [``Usable``](https://github.com/17x/hackintosh-i5-10400-asrock-b460m-steel-legend/releases/tag/usable)
 
   Use this EFI you can use ethernet by certain configs, all USB ports work properly.
+  
+  <img src="./assets/eth-0.png" width="500" height="433">
+  
+  <img src="./assets/eth-1.png" width="500" height="433">
 
 
 

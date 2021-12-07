@@ -14,7 +14,7 @@
   
   [``Wake-able``](https://github.com/17x/hackintosh-i5-10400-asrock-b460m-steel-legend/releases/tag/wake-able)
   
-  Custom the SSDT-EC.aml file to `speed up boot`, remove all unnecessary boot-args, set layout-id id (ALC1200) in config.plist, `boot-args` field value to `igfxonln=1` so your Monterey can wake up with monitor display.
+  Custom the SSDT-EC.aml file to `speed up boot`, remove all unnecessary boot-args, set layout-id id (ALC1200) in config.plist, `boot-args` field value to `igfxonln=1` so your Monterey can wake up with monitor display. A weird issue is Ethernet cannot be change to 1000M or 2500M that's really disappoint me cause realtek8125 kext never been update since April 30 in this year.
 
 
 

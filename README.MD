@@ -11,6 +11,10 @@
   <img src="./assets/eth-0.png" width="500" height="433">
   
   <img src="./assets/eth-1.png" width="500" height="433">
+  
+  [``Wake-able``](https://github.com/17x/hackintosh-i5-10400-asrock-b460m-steel-legend/releases/tag/wake-able)
+  
+  Custom the SSDT-EC.aml file to `speed up boot`, remove all unnecessary boot-args, set layout-id id (ALC1200) in config.plist, `boot-args` field value to `igfxonln=1` so your Monterey can wake up with monitor display.
 
 
 
